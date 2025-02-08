@@ -38,10 +38,10 @@ flutter run
 
 ## 🛠 Requirements
 ✅ **Flutter SDK** – Install from flutter.dev
-✅ **Dart SDK** (comes with Flutter)
+✅ **Dart SDK** (comes with Flutter) 
 ✅ **Android Studio / VS Code (for development)**
 ✅ **Git (for cloning the repository)**
-✅ **An emulator or physical device**
+✅ **An emulator or physical device*8
 
 ---
 

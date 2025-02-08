@@ -37,24 +37,29 @@ flutter run
 ---
 
 ## 🛠 Requirements
-✅ **Flutter SDK** – Install from flutter.dev
-✅ **Dart SDK** (comes with Flutter) 
-✅ **Android Studio / VS Code (for development)**
-✅ **Git (for cloning the repository)**
-✅ **An emulator or physical device*8
+
+✅ **Flutter SDK** – Install from flutter.dev  
+✅ **Dart SDK** (comes with Flutter)   
+✅ **Android Studio / VS Code (for development)**  
+✅ **Git (for cloning the repository)**  
+✅ **An emulator or physical device**  
 
 ---
 
-📂 Project Structure
-lib
-│── pages
-│   ├── BookDetails.dart    # Book details screen
-│   ├── CartPage.dart       # Shopping cart screen
-│   ├── home.dart           # Home screen with book listings
+## 📂 Project Structure
+
+```
+lib/
+│── pages/
+│   ├── BookDetails.dart     # Book details screen
+│   ├── CartPage.dart        # Shopping cart screen
+│   └── home.dart           # Home screen with book listings
 │
-│── widget
-│   ├── bookCard.dart       # UI component for displaying book details
-│   ├── cart_model.dart     # Cart model to manage cart state
+│── widget/
+│   └── bookCard.dart       # UI component for displaying book details
 │
-│── main.dart               # Entry point of the application
+├── cart_model.dart         # Cart model to manage cart state
+│
+└── main.dart              # Entry point of the application
+```
 
